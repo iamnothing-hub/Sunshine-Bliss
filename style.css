@@ -28,19 +28,21 @@ html {
 }
 
 .sunshine{
-    margin-top: 9rem;
+    margin-top: 2rem;
     text-align: left;
-    margin-bottom: -5rem;
-    margin-left: -10rem;
+    /* margin-bottom: -5rem;/ */
+    margin-left: -33rem;
+    font-size: 1.4rem;
+    color: #C8C8C8;
 }
 .page{
     background-color: #fff;
     /* border: 1px solid black; */
     /* padding: 1.5rem 2rem 1.5rem 2rem !important;  */
-    padding-top: 2rem !important;
+    /* padding-top: 2rem !important; */
     padding-bottom: 4rem !important;
     padding-right: 5.5rem !important;
-    margin-top: 1rem;
+    /* margin-top: 1rem; */
     display: flex;
     flex-direction: column;
     justify-content: center;
